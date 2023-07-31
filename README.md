@@ -1,1 +1,3 @@
-# Icon-CSS
+# Icon CSS
+
+A icon css library.
