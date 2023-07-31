@@ -1,0 +1,110 @@
+/* Icon CSS Kütüphane Stilleri */
+.icon {
+  font-size: 24px;
+  display: inline-block;
+  margin: 8px;
+}
+
+/* Kalp İkonu */
+.heart::before {
+  content: "\2665";
+}
+
+/* Yıldız İkonu */
+.star::before {
+  content: "\2605";
+}
+
+/* Tik İkonu */
+.check::before {
+  content: "\2713";
+}
+
+/* Gülümseme İkonu */
+.smile::before {
+  content: "\1F604";
+}
+/* Yılan İkonu */
+.snake::before {
+  content: "\1F40D";
+}
+
+/* Pizza İkonu */
+.pizza::before {
+  content: "\1F355";
+}
+
+/* Uzay Gemisi İkonu */
+.space-ship::before {
+  content: "\1F6F8";
+}
+
+/* Kitap İkonu */
+.book::before {
+  content: "\1F4D6";
+}
+
+/* Müzik İkonu */
+.music::before {
+  content: "\1F3B5";
+}
+
+/* Çiçek İkonu */
+.flower::before {
+  content: "\1F33C";
+}
+/* Yıldırım İkonu */
+.lightning::before {
+  content: "\26A1";
+}
+
+/* Kahve İkonu */
+.coffee::before {
+  content: "\2615";
+}
+
+/* El İkonu */
+.hand::before {
+  content: "\270B";
+}
+
+/* Dünya İkonu */
+.earth::before {
+  content: "\1F30D";
+}
+
+/* Saat İkonu */
+.clock::before {
+  content: "\1F553";
+}
+/* Uçak İkonu */
+.airplane::before {
+  content: "\2708";
+}
+
+/* Güneş İkonu */
+.sun::before {
+  content: "\2600";
+}
+
+/* Ay İkonu */
+.moon::before {
+  content: "\1F319";
+}
+
+/* Bulut İkonu */
+.cloud::before {
+  content: "\2601";
+}
+
+/* Tik İkonu */
+.check::before {
+  content: "\2713";
+}
+
+/* Gülümseme İkonu */
+.smile::before {
+  content: "\1F604";
+}
+
+
